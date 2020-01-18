@@ -1,0 +1,8 @@
+prefix=/home/kevin/workSpace/DIP_ws/src/master_pkg/cmake-build-debug/devel
+
+Name: wtrmaster
+Description: Description of wtrmaster
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/kevin/workSpace/DIP_ws/src/master_pkg/cmake-build-debug/devel/lib 
+Requires: 
