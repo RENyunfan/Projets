@@ -8,9 +8,8 @@
 
 * Python 3.5
 * Ubuntu 16.04
-![Screenshot from 2020-01-18 01-28-08](README.assets/Screenshot from 2020-01-18 01-28-08.png)
 
-
+![six](README.assets/six.png)
 
 # Quick start
 

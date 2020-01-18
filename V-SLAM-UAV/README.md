@@ -8,7 +8,7 @@
 
 * This project can only be used for specific drones, please **DO NOT** use it directly on your own drones, the author will not be responsible for any consequences. Welcome to communicate with the author, modify some code to make it suitable for your drone.
 
-![Screenshot from 2020-01-18 01-43-03](./README.assets/Screenshot from 2020-01-18 01-43-03.png)
+![bisllam](./README.assets/bisllam.png)
 
 ![fly](./README.assets/fly.jpg)
 
